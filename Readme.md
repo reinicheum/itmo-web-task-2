@@ -1,6 +1,6 @@
 # Mission 2
 ## Part 0
-[Link to video](https://www.youtube.com/watch?v=UUhavvMO2FQ)
+[Mission 2 Video](https://drive.google.com/file/d/1TqhLMbv-kIwsJh93K8lpkyNYTNmjNWcq/view?usp=sharing)
 ## Part 1
 - Вопрос 1. Зачем нужен ssh? Ответ на пару предложений.
 > SSH (Secure Shell) — это сетевой протокол, обеспечивающий защищённое удалённое подключение к серверу. Он гарантирует безопасность соединения за счёт шифрования данных. Это позволяет надёжно управлять серверами, обмениваться файлами и выполнять команды на компьютерах, находящихся на расстоянии.
